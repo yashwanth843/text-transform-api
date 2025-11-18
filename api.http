@@ -2,5 +2,5 @@ POST http://localhost:3000/api/transform
 Content-Type: application/json
 
 {
-  "sentence": "My Name is Yashwanth, what is your Name?"
+  "sentence": "I love working with JavaScript and Node.js"
 }
